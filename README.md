@@ -23,10 +23,12 @@ Splut is a proprietary tool available for commercial use.
 Splut is **not open source**. All rights reserved.  
 For demo access or licensing questions, reach out via Gumroad or email.
 
-## 📸 Screenshots / Demo
+## 📸 KEY INFO
 
-*(Add a GIF or PNG here if you want — I can help you format it.)*
 
+Make sure you visit the gumroad to listen to the official Splut Split Screen Themesong.
+
+<img width="701" alt="Screenshot 2025-05-19 at 6 22 59 PM" src="https://github.com/user-attachments/assets/5fd77a1c-e6cb-489a-8a33-656db3b6f3d4" />
 ---
 
 Built with love by [Spencer Toulouse](https://toulouse4.gumroad.com)  
