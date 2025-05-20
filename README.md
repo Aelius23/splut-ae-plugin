@@ -9,7 +9,7 @@ Splut is a fast, stylish After Effects plugin designed for editors who hate busy
 - 🎥 Vertical and horizontal split screens
 - 🔍 Instant punch-ins with customizable regions
 - 🚨 Easy customizable strobing
-- 🎲 Moodboard generator with random asset composition
+- 🎲 Moodboard generator with semi random composition arrangement from footage
 - 🖼️ Panel-style UI that integrates directly into After Effects
 
 ## 📦 Get Splut
