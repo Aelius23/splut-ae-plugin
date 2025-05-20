@@ -28,7 +28,8 @@ For demo access or licensing questions, reach out via Gumroad or email.
 
 Make sure you visit the gumroad to listen to the official Splut Split Screen Themesong.
 
-<img width="701" alt="Screenshot 2025-05-19 at 6 22 59 PM" src="https://github.com/user-attachments/assets/5fd77a1c-e6cb-489a-8a33-656db3b6f3d4" />
+[![Splut preview](https://github.com/user-attachments/assets/5fd77a1c-e6cb-489a-8a33-656db3b6f3d4)](https://toulouse4.gumroad.com/l/Splut)
+
 ---
 
-Built with love by [Spencer Toulouse](https://toulouse4.gumroad.com)  
+Built with love and venom by [Spencer Toulouse](https://toulouse4.gumroad.com)  
